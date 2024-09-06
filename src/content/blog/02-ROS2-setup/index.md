@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Guide: How to Set Up ROS2 Humble"
-description: "How to add posts to your blog."
+description: "How to install ROS2."
 date: "Sep 07 2024"
 ---
 
