@@ -1,8 +1,8 @@
 ---
-company: "Facebook"
+company: "Luminar Technolab"
 role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+dateStart: "11/01/2022"
+dateEnd: "05/31/2023"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Completed a data science internship, working on various projects during a bootcamp at Luminar Technolab.
