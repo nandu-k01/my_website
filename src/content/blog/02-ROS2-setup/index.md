@@ -1,7 +1,7 @@
 ---
 title: "Beginner's Guide: How to Set Up ROS2 Humble"
 description: "How to install ROS2."
-date: "Sep 07 2024"
+date: "Aug 25 2024"
 ---
 
 **Ready to dive into robotics?** This guide will take you through the basics of setting up ROS 2 Humble on your system. If you already know what ROS is and need help getting it set up, you're in the right place to start building and experimenting right away.

@@ -1,7 +1,7 @@
 ---
 title: "Till now"
 description: "story?"
-date: "Sep 01 2024"
+date: "Aug 05 2024"
 ---
 # My Journey: From Finance to AI and Robotics
 
